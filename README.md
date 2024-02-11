@@ -1,7 +1,9 @@
 # WEB technológiák
 
 ## 1. hét
-Ismerkedés a web technológia alapjaival.
+Féléves követelmények ismertetése. Ismerkedés a web technológia alapjaival.
+
+* [HTML alapjai](01_html.md)
 
 ## Elérhetőség
 Kiss Áron, tanszéki mérnök<br>
