@@ -159,7 +159,7 @@ Táblázatok létrehozásához a következő elemeket kell használni:
         <td>400 Ft</td>
     </tr>
     <tr>
-      <td colspan="2">Összesen: 900 Ft
+      <td colspan="2">Összesen: 900 Ft</td>
     </tr>
 </table>
 ```
