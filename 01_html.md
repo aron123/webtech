@@ -1,4 +1,4 @@
-# HTML
+# HTML (HyperText Markup Language)
 
 * XML, mint strukturált adatleíró nyelv
 * HTML dokumentum alapvető felépítése (`html`, `head`, `body`)
