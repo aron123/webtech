@@ -10,10 +10,11 @@ A HTML alapjai. Szövegformázás és tagolás, linkek, képek, listák, táblá
 * Projekt: [Alapvető HTML elemek](https://github.com/aron123/webtech/blob/main/01_html/index.html)
 
 ## 3. hét
-CSS.
+CSS alapjai. A leggyakrabban használt tartalomformázási lehetőségek.
 
 * [CSS alapjai](02_css.md)
-* Feladat: Készítsd el a következő weboldalt, a szöveg formázásához használj CSS-t, valamint HTML `class`-okat és `id`-kat.
+* [W3Schools CSS tutorial](https://www.w3schools.com/css/)
+* Feladat: Készítsd el a következő weboldalt, a szöveg formázásához használj inline CSS-t, valamint `class`és `id` alapú selectorokat is!
     * [Az elkészítendő weblap](https://raw.githubusercontent.com/aron123/webtech/main/data/neumann.png)
     * [Nyers szöveg](https://raw.githubusercontent.com/aron123/webtech/main/data/neumann.txt)
 
