@@ -97,7 +97,7 @@ p {
 ```
 
 ## Kaszkádolás
-Az egymás után megadott szabályok felülírják egymást.
+Az egymás után, azonos selector-ral megadott szabályok felülírják egymást.
 
 ```html
 <head>
@@ -125,6 +125,7 @@ Egyes szabályok képesek egymást felülírni. A hierarchiában magasabb szinte
     <style>
         /* elem szintű selector */
         p {
+            font-weight: bold;
             color: red;
         }
 
@@ -135,7 +136,7 @@ Egyes szabályok képesek egymást felülírni. A hierarchiában magasabb szinte
     </style>
 </head>
 <body>
-    <p id="green-text">Ennek a bekezdésnek zöld színe lesz.</p>
+    <p id="green-text">Ez egy félkövér, zöld színű bekezdés.</p>
 </body>
 ```
 
