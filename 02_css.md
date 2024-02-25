@@ -4,6 +4,8 @@
 * Selectorok és deklarációk
 * CSS stílusok megadása inline (`style` attribútum), beágyazott (`<head>` > `<style>`), külső fájlból importált (`<link>`) módon
 * CSS kommentek
+* Kaszkádolás
+* Hierarchia
 * Elem, id, és class selectorok
 * `span` és `div` elemek szerepe
 * Háttér formázása
@@ -94,6 +96,50 @@ p {
 }
 ```
 
+## Kaszkádolás
+Az egymás után megadott szabályok felülírják egymást.
+
+```html
+<head>
+    <style>
+        p {
+            color: red;
+        }
+
+        p {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <p>Ennek a bekezdésnek zöld színe lesz.</p>
+</body>
+```
+
+## Hierarchia
+Egyes szabályok képesek egymást felülírni. A hierarchiában magasabb szinten álló szabály fog érvényesülni az elemre.
+![](data/css_specificity.png)
+
+
+```css
+<head>
+    <style>
+        /* elem szintű selector */
+        p {
+            color: red;
+        }
+
+        /* id szintű selector */
+        #green-text {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <p id="green-text">Ennek a bekezdésnek zöld színe lesz.</p>
+</body>
+```
+
 ## span és div elemek szerepe
 
 - `span`: Inline elem, mely a szöveg egy részét jelöli ki.
@@ -131,6 +177,7 @@ div {
     margin: 10px;
     padding: 20px;
     border: 1px solid black;
+    border-radius: 5px;
 }
 ```
 
@@ -154,7 +201,9 @@ p {
     font-family: Arial;
     font-size: 16px;
     font-weight: bold;
-    text-decoration: underline;
     font-style: italic;
+    
+    text-decoration: underline;
+    text-align: justify;
 }
 ```

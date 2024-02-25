@@ -12,6 +12,8 @@ digitális számítógép elvi alapjainak lefektetésével vált ismertté.
 
 Neumann János
 
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/JohnvonNeumann-LosAlamos.jpg/462px-JohnvonNeumann-LosAlamos.jpg
+
 Született: 1903. december 28.
 Elhunyt: 1957. február 8. (53 évesen)
 Ismeretes mint: matematikus, informatikus, fizikus, egyetemi oktató
@@ -30,8 +32,8 @@ Számos olyan fogalom és elv fűződik a nevéhez, mint például a Neumann-elv
 kvantummechanikában, a Neumann-stabilitáselmélet a játékelméletben, vagy a
 Neumann-eljárás a numerikus analízisben.
 
-A számítástechnikának Neumann János az egyik legjelentősebb alakja.
-Ő volt az egyik első, aki felismerte a digitális számítógépek potenciálját.
+A számítástechnikának Neumann János jelentős alakja, elsők között ismerte
+fel a digitális számítógépek potenciálját.
 Neumann olyan alapvető koncepciókat és architektúrákat dolgozott ki,
 amelyek meghatározóak lettek a mai modern számítógépek tervezésében
 és működésében. Nevéhez fűződik a "Neumann-architektúra",
