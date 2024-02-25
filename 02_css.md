@@ -64,7 +64,7 @@ Külső fájlból importált stílusokat a `<link>` elem segítségével tudunk 
 </head>
 ```
 
-## CSS Kommentek
+## CSS kommentek
 
 A CSS kommentek a `/* */` jelek közé írhatók.
 
@@ -118,8 +118,7 @@ Az egymás után megadott szabályok felülírják egymást.
 
 ## Hierarchia
 Egyes szabályok képesek egymást felülírni. A hierarchiában magasabb szinten álló szabály fog érvényesülni az elemre.
-![](data/css_specificity.png)
-
+![CSS specificity](imgs/css_specificity.png)
 
 ```css
 <head>
@@ -171,6 +170,9 @@ body {
 ## Margin, padding és border
 
 A `margin` a külső tér, míg a `padding` a belső tér a HTML elem körül. A `border` a HTML elem körvonala.
+Ezt a megoldást „box modellnek” is nevezzük.
+
+![CSS box model](imgs/css_box_model.drawio.png)
 
 ```css
 div {
