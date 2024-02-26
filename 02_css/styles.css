@@ -1,0 +1,50 @@
+h4 {
+    color: blue;
+    font-family: Arial;
+}
+
+/* bekezdések formátuma */
+#main-paragraph {
+    font-size: 15pt;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 20pt;
+    text-align: justify;
+}
+
+p {
+    font-size: 10pt;
+}
+
+/* ID alapú selector */
+#first {
+    background-color: gold;
+}
+
+#second {
+    background-color: silver;
+}
+
+#third {
+    background-color: brown;
+}
+
+/* class alapú selector */
+.failed {
+    background-color: red;
+}
+
+.content {
+    background-color: lightgrey;
+    width: 200px;
+    border: 2px dashed black;
+    padding: 5px;
+    margin: 50px;
+}
+
+.bold {
+    font-weight: bold;
+}
