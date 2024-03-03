@@ -20,6 +20,12 @@ CSS alapjai. A leggyakrabban használt tartalomformázási lehetőségek.
 * Feladat: Készítsd el a következő weboldalt, a szöveg formázásához használj inline CSS-t, valamint `class`és `id` alapú selectorokat is!
     * [Az elkészítendő weblap](https://raw.githubusercontent.com/aron123/webtech/main/imgs/neumann.png)
     * [Nyers szöveg](https://raw.githubusercontent.com/aron123/webtech/main/data/neumann.txt)
+ 
+## 4. hét
+HTML, CSS alapok ismétlése játékos formában.
+
+* Flexbox elrendezés: [Flexbox Froggy](http://flexboxfroggy.com/#hu)
+* Selectorok gyakorlása: [CSS Diner](https://flukeout.github.io/)
 
 ## Elérhetőség
 Kiss Áron, tanszéki mérnök<br>
