@@ -24,8 +24,8 @@ CSS alapjai. A leggyakrabban használt tartalomformázási lehetőségek.
 ## 4. hét
 HTML, CSS alapok ismétlése játékos formában.
 
-* Flexbox elrendezés: [Flexbox Froggy](http://flexboxfroggy.com/#hu)
 * Selectorok gyakorlása: [CSS Diner](https://flukeout.github.io/)
+* Flexbox elrendezés: [Flexbox Froggy](http://flexboxfroggy.com/#hu)
 
 ## Elérhetőség
 Kiss Áron, tanszéki mérnök<br>
