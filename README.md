@@ -30,6 +30,8 @@ HTML, CSS alapok ismétlése játékos formában.
 ## 5. hét
 JavaScript alapok.
 
+* [JavaScript alapjai](03_js.md)
+
 ## Elérhetőség
 Kiss Áron, tanszéki mérnök<br>
 ME-GÉIK Informatikai Intézet
