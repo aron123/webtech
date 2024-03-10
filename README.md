@@ -27,6 +27,9 @@ HTML, CSS alapok ismétlése játékos formában.
 * Selectorok gyakorlása: [CSS Diner](https://flukeout.github.io/)
 * Flexbox elrendezés: [Flexbox Froggy](http://flexboxfroggy.com/#hu)
 
+## 5. hét
+JavaScript alapok.
+
 ## Elérhetőség
 Kiss Áron, tanszéki mérnök<br>
 ME-GÉIK Informatikai Intézet
