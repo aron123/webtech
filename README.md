@@ -32,6 +32,8 @@ JavaScript alapok.
 
 * [JavaScript alapjai](03_js.md)
 
+* Projekt: [JavaScript alapok](https://github.com/aron123/webtech/tree/main/03_js)
+
 ## Elérhetőség
 Kiss Áron, tanszéki mérnök<br>
 ME-GÉIK Informatikai Intézet
