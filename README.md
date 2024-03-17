@@ -34,6 +34,11 @@ JavaScript alapok.
 
 * Projekt: [JavaScript alapok](https://github.com/aron123/webtech/tree/main/03_js)
 
+## 6. hét
+HTML-CSS-JS technológiák gyakorlása.
+
+* Projekt: Nyelvi kvízjáték
+
 ## Elérhetőség
 Kiss Áron, tanszéki mérnök<br>
 ME-GÉIK Informatikai Intézet
