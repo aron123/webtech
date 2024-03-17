@@ -1,5 +1,8 @@
 # HTML (HyperText Markup Language)
 
+{:toc}
+
+<!--
 * XML, mint strukturált adatleíró nyelv
 * HTML dokumentum alapvető felépítése (`html`, `head`, `body`)
 * `head` rész egyes elemei (`title`, `favicon`)
@@ -10,7 +13,7 @@
 * képek (`img`, méretezés, alternatív cím)
 * számozott és nem számozott listák (`ul`, `ol`, `li`)
 * táblázatok (`table`, `tr`, `th`, `td`)
-
+-->
 ## XML, mint strukturált adatleíró nyelv
 
 Az XML (eXtensible Markup Language) egy univerzális, ember és gép által egyaránt olvasható adatleíró nyelv, amely adatok strukturált tárolására és átvitelére szolgál.
