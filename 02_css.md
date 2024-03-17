@@ -1,5 +1,9 @@
 # CSS (Cascading Style Sheets)
 
+* Table of Contents
+{:toc}
+
+<!--
 * Mi a CSS?
 * Selectorok és deklarációk
 * CSS stílusok megadása inline (`style` attribútum), beágyazott (`<head>` > `<style>`), külső fájlból importált (`<link>`) módon
@@ -12,6 +16,7 @@
 * `margin`, `padding`, és `border`
 * Szélesség és magasság beállítása
 * Szövegformázás, betűtípus beállításai (`font-family`, `font-size`, félkövér, aláhúzott, dőlt, stb.)
+-->
 
 ## Mi a CSS?
 

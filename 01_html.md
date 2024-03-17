@@ -15,6 +15,7 @@
 * számozott és nem számozott listák (`ul`, `ol`, `li`)
 * táblázatok (`table`, `tr`, `th`, `td`)
 -->
+
 ## XML, mint strukturált adatleíró nyelv
 
 Az XML (eXtensible Markup Language) egy univerzális, ember és gép által egyaránt olvasható adatleíró nyelv, amely adatok strukturált tárolására és átvitelére szolgál.
