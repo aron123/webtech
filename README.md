@@ -37,7 +37,7 @@ JavaScript alapok.
 ## 6. hét
 HTML-CSS-JS technológiák gyakorlása.
 
-* Projekt: Nyelvi kvízjáték
+* Projekt: [Nyelvi kvízjáték](https://github.com/aron123/webtech/tree/main/04_language-quiz)
 
 ## Elérhetőség
 Kiss Áron, tanszéki mérnök<br>

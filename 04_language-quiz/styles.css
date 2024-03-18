@@ -1,0 +1,42 @@
+body {
+    background-color: cornflowerblue;
+    font-family: Arial;
+}
+
+#app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#app div, #app ul {
+    width: 50%;
+    max-width: 300px;
+}
+
+#title {
+    background-color: white;
+    font-size: 24pt;
+    padding: 4px;
+    text-align: center;
+}
+
+#app ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.alternative {
+    background-color: lightgrey;
+    text-align: center;
+    margin-bottom: 2px;
+    cursor: pointer;
+}
+
+.alternative:hover {
+    opacity: 0.8;
+}
+
+#result {
+    text-align: center;
+}
