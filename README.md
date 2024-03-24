@@ -45,7 +45,7 @@ HTML-CSS-JS technológiák gyakorlása. A jQuery könyvtár legfontosabb funkci�
 * [jQuery típusdefiníciók](https://raw.githubusercontent.com/aron123/webtech/main/assets/jquery-types.zip)
     * Importálás: `/// <reference path="./types/index.d.ts" />`
 
-* [Példa adatbázis](https://github.com/aron123/webtech/blob/main/assets/users.js)
+* [Példa adatbázis](https://raw.githubusercontent.com/aron123/webtech/main/assets/users.js)
 
 * Projekt: Nyilvántartó rendszer fejlesztése
 
