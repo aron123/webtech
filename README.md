@@ -49,6 +49,9 @@ HTML-CSS-JS technológiák gyakorlása. A jQuery könyvtár legfontosabb funkci�
 
 * Projekt: Nyilvántartó rendszer fejlesztése
 
+* [jQuery dokumentáció - jquery.com](https://jquery.com/)
+* [jQuery letöltés - releases.jquery.com](https://releases.jquery.com/)
+
 ## Elérhetőség
 Kiss Áron, tanszéki mérnök<br>
 ME-GÉIK Informatikai Intézet
