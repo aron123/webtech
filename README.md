@@ -39,6 +39,16 @@ HTML-CSS-JS technológiák gyakorlása.
 
 * Projekt: [Nyelvi kvízjáték](https://github.com/aron123/webtech/tree/main/04_language-quiz)
 
+## 7. hét
+HTML-CSS-JS technológiák gyakorlása. A jQuery könyvtár legfontosabb funkciói.
+
+* [jQuery típusdefiníciók](https://raw.githubusercontent.com/aron123/webtech/main/assets/jquery-types.zip)
+    * Importálás: `/// <reference path="./types/index.d.ts" />`
+
+* [Példa adatbázis](https://github.com/aron123/webtech/blob/main/assets/users.js)
+
+* Projekt: Nyilvántartó rendszer fejlesztése
+
 ## Elérhetőség
 Kiss Áron, tanszéki mérnök<br>
 ME-GÉIK Informatikai Intézet
