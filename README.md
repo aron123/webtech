@@ -49,6 +49,7 @@ HTML-CSS-JS technológiák gyakorlása. A jQuery könyvtár legfontosabb funkci�
 
 * Projekt: Nyilvántartó rendszer fejlesztése
 
+Hasznos anyagok:
 * [jQuery dokumentáció - jquery.com](https://jquery.com/)
 * [jQuery letöltés - releases.jquery.com](https://releases.jquery.com/)
 
