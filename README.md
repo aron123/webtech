@@ -47,7 +47,7 @@ HTML-CSS-JS technológiák gyakorlása. A jQuery könyvtár legfontosabb funkci�
 
 * [Példa adatbázis](https://raw.githubusercontent.com/aron123/webtech/main/assets/users.js)
 
-* Projekt: [Nyilvántartó rendszer fejlesztése](https://github.com/aron123/webtech/tree/main/05_jquery) - [[ZIP archívum]]((https://raw.githubusercontent.com/aron123/webtech/main/assets/05_jquery_v1.zip))
+* Projekt: [Nyilvántartó rendszer fejlesztése](https://github.com/aron123/webtech/tree/main/05_jquery) - [[ZIP archívum]](https://raw.githubusercontent.com/aron123/webtech/main/assets/05_jquery_v1.zip)
 
 Hasznos anyagok:
 * [jQuery dokumentáció - jquery.com](https://jquery.com/)
