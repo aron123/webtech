@@ -1,5 +1,7 @@
 # WEB technológiák
 
+[**Féléves beadandó információk**](midterm-task.md)
+
 ## 1. hét
 Féléves követelmények ismertetése. Ismerkedés a web technológia alapjaival.
 
