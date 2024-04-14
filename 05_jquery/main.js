@@ -77,7 +77,45 @@ function loadUserForm() {
     $('#content').load('pages/user-form.html');
 }
 
+function validateForm() {
+    const nameInput = $('#name');
+    nameInput.css('border', '');
+
+    const childrenInput = $('#children');
+    childrenInput.css('border', '');
+
+    const maleInput = $('#male');
+    const femaleInput = $('#female');
+    
+    $('.error-message').remove();
+
+    let valid = true;
+
+    if (!nameInput.val()) {
+        nameInput.css('border', '1px solid red');
+        nameInput.parent().after(`<span class="error-message">A név megadása kötelező.</span>`);
+        valid = false;
+    }
+
+    if (!maleInput.prop('checked') && !femaleInput.prop('checked')) {
+        femaleInput.parent().after(`<span class="error-message">A nem megadása kötelező.</span>`);
+        valid = false;
+    }
+
+    if (childrenInput.val() < 0) {
+        childrenInput.css('border', '1px solid red');
+        childrenInput.parent().after(`<span class="error-message">A gyerekek száma legalább 0.</span>`);
+        valid = false;
+    }
+
+    return valid;
+}
+
 function saveUser() {
+    if (!validateForm()) {
+        return;
+    }
+
     const name = $('#name').val();
     const address = $('#address').val();
     const gender = $('#male').prop('checked') ? 'male' : 'female';
