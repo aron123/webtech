@@ -39,6 +39,15 @@ const users = [
     },
 ];
 
+const cars = [
+    {
+        id: 1,
+        licensePlate: 'ABC-123',
+        model: 'Trabant 601',
+        operating: false
+    }
+];
+
 function initialize() {
     $('#navbar').load('navbar.html');
     loadUserList();
@@ -66,6 +75,27 @@ function loadUserList() {
 
 function loadUserForm() {
     $('#content').load('pages/user-form.html');
+}
+
+function saveUser() {
+    const name = $('#name').val();
+    const address = $('#address').val();
+    const gender = $('#male').prop('checked') ? 'male' : 'female';
+    const dateOfBirth = $('#birthday').val();
+    const children = $('#children').val();
+    const homeOffice = $('#home-office').prop('checked');
+
+    users.push({
+        id: users.length + 1,
+        name: name,
+        address: address,
+        gender: gender,
+        dateofBirth: dateOfBirth,
+        children: children,
+        homeOffice: homeOffice
+    });
+
+    loadUserList();
 }
 
 initialize();

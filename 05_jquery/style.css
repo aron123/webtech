@@ -23,3 +23,16 @@ body {
 #content {
     margin: 15px;
 }
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 4px;
+}
+
+.form-input {
+    margin-bottom: 4px;
+}
