@@ -36,3 +36,8 @@ th, td {
 .form-input {
     margin-bottom: 4px;
 }
+
+.error-message {
+    margin: 4px;
+    color: red;
+}

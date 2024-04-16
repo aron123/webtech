@@ -41,7 +41,7 @@ HTML-CSS-JS technológiák gyakorlása.
 
 * Projekt: [Nyelvi kvízjáték](https://github.com/aron123/webtech/tree/main/04_language-quiz)
 
-## 7. hét
+## 7. héttől
 HTML-CSS-JS technológiák gyakorlása. A jQuery könyvtár legfontosabb funkciói.
 
 * [jQuery típusdefiníciók](https://raw.githubusercontent.com/aron123/webtech/main/assets/jquery-types.zip)
@@ -52,6 +52,7 @@ HTML-CSS-JS technológiák gyakorlása. A jQuery könyvtár legfontosabb funkci�
 * Projekt:
     - [Nyilvántartó rendszer v1](https://raw.githubusercontent.com/aron123/webtech/main/assets/05_jquery_v1.zip) (adatok táblázatos megjelenítése)
     - [Nyilvántartó rendszer v2](https://raw.githubusercontent.com/aron123/webtech/main/assets/05_jquery_v2.zip) (új adatok felvitele)
+    - [Nyilvántartó rendszer v3](https://raw.githubusercontent.com/aron123/webtech/main/assets/05_jquery_v3.zip) (űrlapadatok ellenőrzése)
 
 Hasznos anyagok:
 * [jQuery dokumentáció - jquery.com](https://jquery.com/)
