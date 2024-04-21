@@ -13,5 +13,5 @@
 
 ## Hivatalos dokumentáció
 
+* [Kezdő lépések](https://c3js.org/gettingstarted.html)
 * [Egyszerű mintapéldák](https://c3js.org/examples.html)
-* [Tutorial](https://c3js.org/gettingstarted.html)
